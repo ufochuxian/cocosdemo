@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs/libcocosanalytics.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8a2f83e8c5b1586e71553548ce3605e2320710">
+        <dex dex="/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b06fcd73dc805b8fce1e5d54e62af5c6c4ceb7f">
+        <dex dex="/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs/httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs/com.android.vending.expansion.zipfile.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95c9b1a43b72596758adc99d5277427eb6db461e">
+        <dex dex="/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>

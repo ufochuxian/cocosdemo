@@ -1,0 +1,32 @@
+/Users/chen/Cocos/HelloWorldCocos/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/objs/dragonbones_static/__/animation/WorldClock.o: \
+ /Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/WorldClock.cpp \
+ /Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/WorldClock.h \
+ /Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/../core/DragonBones.h \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/cmath \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/functional \
+ /Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
+ /Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/IAnimateble.h
+
+/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/WorldClock.h:
+
+/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/../core/DragonBones.h:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/cmath:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/functional:
+
+/Users/chen/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
+
+/Applications/CocosCreator_1.8.0.app/Contents/Resources/cocos2d-x/cocos/editor-support/dragonbones/proj.android/../animation/IAnimateble.h:
